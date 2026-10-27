@@ -1,2 +1,2 @@
-index.html # ISee
+ # ISee
 Your vision. Your way.
